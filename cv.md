@@ -51,6 +51,9 @@ A service where you can share your photos of interesting places and discover new
 ### Repositoty:
 [Source code on github](https://github.com/aleksdsgn/react-mesto-api-full)
 
-7. Образование (включая пройденные курсы и тренинги)
+## Education:
+Ddate of study: 2022.03 - 2023.03
+School: "Yandex.Practicum"
+Course: ["Web Developer"](https://practicum.yandex.ru/web/)
 
 8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
