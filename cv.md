@@ -56,4 +56,6 @@ Ddate of study: 2022.03 - 2023.03
 School: "Yandex.Practicum"
 Course: ["Web Developer"](https://practicum.yandex.ru/web/)
 
-8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Languages:
+* Russian - Native
+* English - Цith a translator
