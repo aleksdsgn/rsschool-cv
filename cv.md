@@ -31,7 +31,25 @@ function multiply(a, b){
 }
 ```
 
-6. Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+## Experience
+### Project "Mesto" (frontend + backend)
+A service where you can share your photos of interesting places and discover new ones.
+### Functional:
+* Adding and removing cards with a photo and a place name
+* The ability to put / remove likes
+* Registration and authorization
+* Editing a profile
+### Stack:
+* CSS (adaptive layout)
+* JavaScript
+* React (Create React App, JSX, components, router, states, Effects, Context)
+* BEM Nested Methodology
+* Mongoose
+* MongoDB
+* Node.js
+* Express
+### Repositoty:
+[Source code on github](https://github.com/aleksdsgn/react-mesto-api-full)
 
 7. Образование (включая пройденные курсы и тренинги)
 
