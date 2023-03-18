@@ -26,7 +26,9 @@ telegram: [@AleksDSGN](https://t.me/AleksDSGN)
 
 ## Code example:
 ```
-
+function multiply(a, b){
+  return a * b;
+}
 ```
 
 6. Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
