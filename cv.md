@@ -8,14 +8,14 @@ telegram: [@AleksDSGN](https://t.me/AleksDSGN)
 ---
 
 ## Briefly about yourself:
-Я хочу стать front-end разработчиком в крупной продуктовой компании, которая приносит пользу обществу и не противоречит моим интересам.
-Мне важно, чтобы в коллективе была тёплая атмосфера и вся команда была заинтересована в работе над продуктом.
+I want to become a front-end developer in a large product company that benefits society and does not conflict with my interests.
+It is important for me to have a friendly atmosphere in the team and the whole team was interested in working on the product.
 
-Я активно ищу работу в Казахстане, желательно в Алмате. Готов  приложить все усилия для развития карьеры в ближайшие 2 года. 
+I am actively looking for a job in Kazakhstan, preferably in Almaty. Ready to make all efforts to develop my career in the next 2 years. 
 
-Мой опыт это обучение в Яндекс Практикуме на специальности web-developer на протяжении года.
+My experience is training at Yandex.Practicum as a web-developer for a year.
 
-Горю обучаться дальше и применять знания на практике.
+Burning to learn further and apply knowledge in practice.
 
 ## Skills:
 * HTML
