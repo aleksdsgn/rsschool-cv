@@ -60,4 +60,4 @@ Course: ["Web Developer"](https://practicum.yandex.ru/web/)
 
 ## Languages:
 * Russian - Native
-* English - Цith a translator
+* English - With a translator
