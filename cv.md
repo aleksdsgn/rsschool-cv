@@ -7,8 +7,8 @@
 ---
 
 ## Write to me:
-* telegram: [@AleksDSGN](https://t.me/AleksDSGN)
-* nickname on the discord server rs school: Aleksey Shlyapnikov (@aleksdsgn)
+* Telegram: [@AleksDSGN](https://t.me/AleksDSGN)
+* Discord: [aleksdsgn#9336](https://discord.com/users/aleksdsgn#9336)
 ---
 
 ## Briefly about yourself:
