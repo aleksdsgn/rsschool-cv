@@ -1,4 +1,6 @@
-![Photo Aleksey Shlyapnikov](https://user-images.githubusercontent.com/97102815/226087582-0c9bc1e0-d81d-4f20-aa25-88daae848042.png)
+<div id="header">
+  <img src="https://user-images.githubusercontent.com/97102815/229554161-4cdfef6f-8669-4f8d-ace2-49f3255c9db5.png" width="300"/>
+</div>
 
 # Aleksey Shlyapnikov
 
